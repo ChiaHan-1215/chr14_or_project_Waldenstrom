@@ -1,4 +1,4 @@
-# chr14_or_project_Waldenstrom
+# chr14_for_project_Waldenstrom
 
 ### Goal: extract Genotype files from CCLE, GTEx, CARD for finding rare variants for Waldenstrom project
 
